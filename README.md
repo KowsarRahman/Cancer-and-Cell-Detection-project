@@ -1,4 +1,4 @@
-
+<strong>Abstract</strong>
 <p style="text-align:justify;">Our goal was to explore various deep neural networks for the detection and classification of various cell types in the histopathology images of cancer cells caused due to colon cancer. Our exploration and research included two types of Convolutional Neural Networks (CNN): Very Deep Convolutional Networks (VGG) for Cancer Detection and both Residual Networks (ResNet) and VGG for cell type classification with improvisation and optimization to provide accurate results.
 The dataset consisted of 27x27 RGB images of cancer cells from 99 different patients. While inspecting the data, information from patientID 76 was missing so data of 98 patients were used.
 Exploratory Data Analysis
